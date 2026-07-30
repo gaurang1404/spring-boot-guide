@@ -1,4 +1,3 @@
-````md
 # Inversion of Control (IoC) and Dependency Injection (DI)
 
 ## Introduction
@@ -506,4 +505,3 @@ It creates immutable objects, makes dependencies mandatory, improves testability
 - The **Spring IoC Container** creates, manages, and wires beans together.
 - **Constructor Injection** is the preferred way to inject dependencies because it is safer, cleaner, and easier to test.
 - IoC and DI together promote **loose coupling**, making applications more maintainable, scalable, and testable.
-````
